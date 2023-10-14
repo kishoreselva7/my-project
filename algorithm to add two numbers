@@ -1,0 +1,11 @@
+step1:start the program
+step2:read num1 and num2 from the user.
+step3:add the values of num1 and num2 and store the result in num3
+step4:display the value of num3
+step5:stop
+
+python code:
+      num1=int(input("Enter the value for num1:"))
+      num2=int(input("Enter the value for num2:"))
+      num3=num1+num2
+      print(num3)
