@@ -1,0 +1,14 @@
+#algorithm to find leap year
+step1:start
+step2:Read value v from the user
+step3:if v divided by 4 equal to 0
+step4:display it is a leap year
+step5:else display it is not a leap year
+step6:stop
+
+#python code
+v=int(input("Enter the year:"))
+if v%4==0:
+    print("It is a leap year")
+else:
+    print("It is not a leap year")
